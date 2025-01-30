@@ -1,0 +1,1 @@
+[13 задание](https://searrot.github.io/ege/informatics/13.md)
