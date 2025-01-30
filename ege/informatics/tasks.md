@@ -1,1 +1,1 @@
-[13 задание](https://searrot.github.io/ege/informatics/13.md)
+[13 задание](13.md)
